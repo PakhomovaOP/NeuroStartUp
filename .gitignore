@@ -1,0 +1,7 @@
+#ignore tmp
+**/tmp/
+#ignore _old, _backup
+**_old
+**_backup
+**.DS_Store
+Thumbs.db
